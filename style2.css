@@ -1,0 +1,135 @@
+
+.container-pf {
+    display: flex;
+    flex-direction: column;
+    width: 1050px;
+    height: auto;
+    font-size: medium;
+}
+.margin{
+    border-top: 8px solid rgb(50, 50, 50);
+    border-bottom: 8px solid rgb(50, 50, 50);
+
+}
+.titulo-pf{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    font-size: 50px;
+    font-weight:bold;
+
+}
+.accordion-body {
+    background-color:rgb(30, 30, 30);
+    color: white;
+    border: 8px black;
+    margin-block-start: 8px;
+    font-size: 20px;
+    
+}
+.accordion-item {
+    border: 8px black;
+    margin-block-start: 8px;
+        
+}
+
+.accordion-button  {
+    background-color: rgb(50, 50, 50);
+    color: white;
+    padding: 25px;
+    font-size: 25px;
+
+}
+.parrafoAcordeon {
+    background-color: black;
+    color: white;
+    font-size:larger;
+    text-align:center;
+    padding-top: 30px;
+    
+}
+.text{
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding-block-end:  50px;
+}
+.input {
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding-inline-end:  20px;
+    width: 400px;
+    height: 50px;
+}
+.btn_comenzar{
+    background-color:darkred;
+    border: 2px solid darkred;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    padding-inline-end:  20px;
+    width: 150px;
+    height: 50px;
+}
+
+a:visited {
+    color: white;
+    
+}
+a:link{
+   
+    color: white;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.footer{
+    
+    color: white;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    font-size: medium;
+    justify-content: center;
+
+}
+.parrafofooter {
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-left: 160px;
+    font-size: medium;
+    text-align:left;
+    
+}
+.caja{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 5px;
+    width: 250px;
+    height: auto;
+}
+
+.text2 {
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-left: 160px;
+    font-size: medium;
+    text-align:left;
+    
+}
+.input2 {
+    background-color: black;
+    border: 2px solid rgb(50, 50, 50);
+    border-radius: 2px;
+    padding: 5px;
+    width: 100px;
+    height: 25px;
+}  
+
+
